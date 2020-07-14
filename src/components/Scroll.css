@@ -1,0 +1,6 @@
+#scr {
+    margin: 2rem;
+  overflow-y: scroll;
+  border: 1px solid indigo;
+  height: 600px;
+}
